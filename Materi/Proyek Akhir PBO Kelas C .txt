@@ -1,0 +1,17 @@
+Proyek Akhir PBO Kelas C 
+1. Deadline pada kuliah PBO minggu ke - 15(DEMO)
+2. Membentuk Kelompok dengan max = 4 orang
+3. List Problem(6):
+- POLYEQ
+- PLOT1
+- POCALC1
+- POCALC2
+- POLYTABL
+- TRACTOR
+dengan syarat 1 Problem 2 Kelompok
+4. Letakkan di google drive (spreadsheet)
+dengan format table
+Kelompok | NRP | NAMA | SOAL | Akun Kelompok SPOJ(Akun Baru)
+5. Deliveribles(PDF):
+- Laporan Analisis Algorithma nya(ADT)
+- Bukti Submission yang AC

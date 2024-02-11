@@ -1,0 +1,1 @@
+{"name":"Local: LOTTERY","url":"f:\\Coding\\PBO-2023\\random\\LOTTERY.cpp","tests":[{"id":1695948780894,"input":"2\n2 1\n1337\n0\n7 2\n4711\n0\n4\n0\n210706\n3\n0","output":"1337\n-1\n4711\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\PBO-2023\\random\\LOTTERY.cpp","group":"local","local":true}

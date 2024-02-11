@@ -1,0 +1,1 @@
+{"name":"Local: Arrange","url":"f:\\Coding\\PBO-2023\\Kuis\\Arrange.cpp","tests":[{"id":1695953003062,"input":"2\n3 2\n4 2","output":"2\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\PBO-2023\\Kuis\\Arrange.cpp","group":"local","local":true}
